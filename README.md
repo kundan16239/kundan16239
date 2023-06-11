@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundan16239&label=Profile%20views&color=0e75b6&style=flat" alt="kundan16239" /> </p>
 
-- 💬 Ask me about **Go, Strapi, JavaScript, TypeScript, Python, Express, Koa, Fastify**
+- 💬 Ask me about **Go, Strapi, JavaScript, TypeScript, Python, Express, Koa, Fastify, Loopback**
 
 - 📫 How to reach me **kundan16239@gmail.com**
 
